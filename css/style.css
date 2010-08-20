@@ -52,5 +52,8 @@ div#footer {
     border-top: none;
 }
 
+div#post {
+    padding-bottom: 10em;
+}
 pre                 { border: 1px solid #ccc; background-color: #eee; padding: .8em; font-size: smaller; width: 550px}
 
